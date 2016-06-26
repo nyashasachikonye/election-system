@@ -1,0 +1,27 @@
+Author: Kuziwa Sachikonye
+Date: 21 March 2013
+
+Name: Tutorial 3
+
+Description:
+
+This program is a design of a emulator for voting in election. Users have the capability to vote and to view the votes that were cast for
+a particular candidate. 
+
+=================
+
+**Procedure**
+
+=================
+
+1. Open the terminal.
+2. Locate the directory that contains the source files
+3. Enter make into the shell
+	- the program will then begin and enquire if the user is an EC or a student
+4. Once the user's identity is displayed a list series of questions will be asked and in the case of
+ 	- a student will be asked about their name, faculty and  list of the candidates will be displayed. a candiadte must be selected and 		the vote is recorded 
+4. An EC has the option of previewing the results and this will be displayed if requested  
+
+
+
+List of files: BS_Tree.java Tutorial3.java, B_Node.java, makefile, README.txt
